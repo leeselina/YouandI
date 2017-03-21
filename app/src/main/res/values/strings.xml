@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">너와나의 연결고리</string>
+    <string name="action_sign_in">등록하기</string>
+
+    <string name="exphone">01020141142</string>
+
+    <string name="date_pick" parent="@android:style/Theme.Holo.Dark">Pick a date</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--지역선택-->
+    <string name="address_prompt">거주 지역</string>
+    <string-array name="city">
+        <item>거주지역</item>
+        <item>서울</item>
+        <item>경기</item>
+        <item>인천</item>
+        <item>강원</item>
+        <item>대전</item>
+        <item>부산</item>
+    </string-array>
+
+
+    <!--판정기수-->
+    <string name="judgement_prompt"></string>
+    <string-array name="judgement">
+        <item>판정 기수 선택</item>
+        <item>암 판정 1 기</item>
+        <item>암 판정 2 기</item>
+        <item>암 판정 3 기</item>
+        <item>암 판정 4 기</item>
+    </string-array>
+
+    <!--재수술-->
+    <string name="numsurgery_prompt"></string>
+    <string-array name="numsurgery">
+        <item>재수술 여부</item>
+        <item>재수술 경험 있음</item>
+        <item>재수술 경험 없음</item>
+    </string-array>
+
+    <string name="surgerymethod_prompt"></string>
+    <string-array name="surgerymethod">
+        <item>수술방법 선택</item>
+        <item>유방절제수술</item>
+        <item>유방보존수술</item>
+    </string-array>
+
+    <!--결혼여부-->
+    <string name="maritalstatus_prompt"></string>
+    <string-array name="maritalstatus">
+        <item>결혼 여부 선택</item>
+        <item>미혼</item>
+        <item>기혼</item>
+    </string-array>
+
+
+    <!--자녀여부-->
+    <string name="children_prompt"></string>
+    <string-array name="children">
+        <item>자녀 유무 선택</item>
+        <item>자녀 있음</item>
+        <item>자녀 없음</item>
+    </string-array>
+    <string name="title_activity_memo">MemoActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>
