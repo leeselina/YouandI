@@ -88,16 +88,5 @@
         android:layout_height="wrap_content"
         android:text="페이스북으로 로그인하기"/>
 
-    <Button
-        android:text="메모"
-        android:layout_width="125dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/btn_memo" />
-
-    <Button
-        android:text="Button"
-        android:layout_width="128dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/btn_chat" />
 
 </LinearLayout>
